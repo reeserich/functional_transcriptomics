@@ -1,0 +1,2 @@
+# Functional Transcriptomics
+Python lesson plans for working with transcriptomics data. Developed for [W22 BIOL SCI 378 - Functional Genomics at Northwestern University](https://biosci.northwestern.edu/courses/2019-2020/course-descriptions/).
