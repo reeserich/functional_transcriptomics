@@ -1,0 +1,12 @@
+Install the latest version of Anaconda:
+https://www.anaconda.com/products/individual
+
+These videos will help you with the installation process if you are having trouble:
+
+OS X: https://www.youtube.com/watch?v=UQhOyZXHkxI
+Windows: https://www.youtube.com/watch?v=w16iUU6IA5E
+
+Once you have Anaconda installed, launch Jupyter notebook and enter 
+the notebook intro_to_pandas_biol_sci_378_2022_01_21.ipynb.
+
+- Reese (rakr@u.northwestern.edu)
