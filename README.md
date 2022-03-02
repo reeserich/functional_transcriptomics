@@ -17,3 +17,4 @@ Python lesson plans for working with transcriptomics data. Developed for [W22 BI
 * [Hierarchical clustering](https://www.youtube.com/watch?v=P3SCOM6SDsA)
 * [k-Means clustering](https://www.youtube.com/watch?v=-4s5nTmrLWI)
 * [ORA with WebGestalt](https://www.youtube.com/watch?v=kyEgahHYwhU)
+* [Extracting gene names from an online resource](https://www.youtube.com/watch?v=uOhpb1_va5w)
